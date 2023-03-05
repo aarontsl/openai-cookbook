@@ -1,7 +1,7 @@
 # ----- PINECONE CONFIG -----
-PINECONE_API_KEY: "<your Pinecone API key>"
-PINECONE_INDEX: "<your Pinecone Index name>" # dimensions: 1536, metric: cosine similarity
-PINECONE_ENV: "<your Pinecone env e.g.us-west1-gcp>"
+PINECONE_API_KEY: "1be6e0fc-f496-4dfa-9351-67faada6d8d1"
+PINECONE_INDEX: "aarontsl-playground" # dimensions: 1536, metric: cosine similarity
+PINECONE_ENV: "us-east1-gcp"
 
 # ----- SERVER PORT ----
 SERVER_PORT: "8080"
